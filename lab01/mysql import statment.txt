@@ -1,0 +1,3 @@
+SET GLOBAL local_infile = 'ON';
+
+LOAD XML LOCAL INFILE 'E:/iti OS intake 43/XML/labs/lab01/person.xml' INTO TABLE persons ROWS IDENTIFIED BY '<person>';
