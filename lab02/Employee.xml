@@ -1,4 +1,4 @@
-<!DOCTYPE employees SYSTEM "employees.dtd">
+<!DOCTYPE employees SYSTEM "E:\iti OS intake 43\XML\labs\lab02\employees.dtd">
 <employees>
 	<employee name="mahmoud" email="mahmoud@gmail.com">
 		<phone type="work">0126546546</phone>
