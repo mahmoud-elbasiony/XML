@@ -1,25 +1,25 @@
-
+<!DOCTYPE employees SYSTEM "E:\iti OS intake 43\XML\labs\lab02\employees.dtd">
 <employees>
-    <employee name="mahmoud" email="mahmoud@gmail.com">
-    <phone type="work">0126546546</phone>
-    <phone type="mobile">0126546546</phone>
-    <address>
-        <street>abd elsalam elshazy st.</street>
-        <buildingNumber>50</buildingNumber>
-        <city>Damanhour</city>
-        <region>elbehaira</region>
-        <country>Egypt</country>
-    </address>
-    </employee>
-    <employee name="ahmed" email="ahmed@gmail.com">
-    <phone type="home">0126546546</phone>
-    <phone type="mobile">0126546546</phone>
-    <address>
-        <street>mostafa kamel.</street>
-        <buildingNumber>20</buildingNumber>
-        <city>sidi besher</city>
-        <region>alexandria</region>
-        <country>Egypt</country>
-    </address>
-    </employee>
+	<employee name="mahmoud" email="mahmoud@gmail.com">
+		<phone type="work">0126546546</phone>
+		<phone type="mobile">0126546546</phone>
+		<address>
+			<street>abd elsalam elshazy st.</street>
+			<buildingNumber>50</buildingNumber>
+			<city>Damanhour</city>
+			<region>elbehaira</region>
+			<country>Egypt</country>
+		</address>
+	</employee>
+	<employee name="ahmed" email="ahmed@gmail.com">
+		<phone type="home">0126546546</phone>
+		<phone type="mobile">0126546546</phone>
+		<address>
+			<street>mostafa kamel.</street>
+			<buildingNumber>20</buildingNumber>
+			<city>sidi besher</city>
+			<region>alexandria</region>
+			<country>Egypt</country>
+		</address>
+	</employee>
 </employees>
