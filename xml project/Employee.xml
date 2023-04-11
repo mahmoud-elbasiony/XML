@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE employees SYSTEM "E:\iti OS intake 43\XML\labs\lab02\employees.dtd">
+<employees>
+	<employee email="mahmoud@gmail.com">
+		<name>mahmoud</name>
+		<phone type="work">0126546546</phone>
+		<address>
+			<street>abd elsalam elshazy st.</street>
+			<buildingNumber>50</buildingNumber>
+			<city>Damanhour</city>
+			<region>elbehaira</region>
+			<country>Egypt</country>
+		</address>
+	</employee>
+	<employee email="ahmed@gmail.com">
+		<name>ahmed</name>
+
+		<phone type="home">0126546546</phone>
+		<address>
+			<street>mostafa kamel.</street>
+			<buildingNumber>20</buildingNumber>
+			<city>sidi besher</city>
+			<region>alexandria</region>
+			<country>Egypt</country>
+		</address>
+	</employee>
+<employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee>
+	<employee email="ahmed@gmail.com"><name>ahmed</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee>
+	<employee email="ahmed@gmail.com"><name>ahmed</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee>
+	<employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street/><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee>
+<employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee><employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee><employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee><employee email="ahmed@gmail.com"><name>ahmed</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee><employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street>asdasdasdasd</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee><employee email="mahmoud@gmail.com"><name>mahmoud</name><phone>0126546546</phone><address><street>abd elsalam elshazy st.</street><buildingNumber>50</buildingNumber><city>Damanhour</city><region>elbehaira</region><country>Egypt</country></address></employee></employees>
